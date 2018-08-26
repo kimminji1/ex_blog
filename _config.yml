@@ -1,21 +1,21 @@
 # SITE CONFIGURATION
 baseurl: "/kimminji1.github.io"
 url: "https://kimminji1.github.io"
-title: "Minji's Blog" # site's title
+title: "Minji" # site's title
 description: "Stop thinking and Do it" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: "Minji" # blog's title
+  title: "Minji's Blog" # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
+     <p>개발하는 인사담당자...  <br> 가 되고 싶어요!</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
