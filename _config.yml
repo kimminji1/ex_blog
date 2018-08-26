@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: "/kimminji1.github.io""
 url: "kimminji1.github.io"
-title: Minji's Blog :) # site's title
+title: "Minji's Blog" # site's title
 description: "Stop thinking and Do it" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: "Minji" # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
