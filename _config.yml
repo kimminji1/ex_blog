@@ -29,7 +29,7 @@ theme_settings:
   
   # disqus  
   disqus_url: <https://kimminji.disqus.com>  
-  disqus id: <kimminji>  
+  disqus_id: <kimminji>  
     
   # Sharing options
   share_buttons:
