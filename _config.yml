@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: "/kimminji1.github.io""
 url: "kimminji1.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Minji's Blog :) # site's title
+description: "Stop thinking and Do it" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
