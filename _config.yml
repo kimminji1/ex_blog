@@ -25,9 +25,12 @@ theme_settings:
   email_address: "isproject.minji@gmail.com" # Full email address, e.g. "sam@example.com"
   facebook: "isproject"
   github: "kimminji1"
-  twitter: "learner_mj" # "twitter username"
-
+  twitter: "learner_mj" # "twitter username"  
   
+  # disqus  
+  disqus_url: <https://kimminji.disqus.com>  
+  disqus id: <clariekim>  
+    
   # Sharing options
   share_buttons:
     facebook: true
