@@ -39,7 +39,7 @@ theme_settings:
 
   # Scripts / Features 
   google_analytics: "UA-124660314-1" # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  disqus_shortname: kimminji
   katex: true # Enable if using math markup
   
   special_page:
